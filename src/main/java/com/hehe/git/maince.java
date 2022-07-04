@@ -9,5 +9,7 @@ public class maince {
         System.out.println("safsaf");
 
         System.out.println("哈哈哈哈哈");
+        System.out.println("哈哈哈哈哈");
+        System.out.println("休息休息");
     }
 }
