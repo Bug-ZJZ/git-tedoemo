@@ -5,5 +5,7 @@ public class maince {
         System.out.println("真的很厉sd害哦");
         System.out.println("fbdffd");
         System.out.println("sfsasf");
+
+        System.out.println("safsaf");
     }
 }
